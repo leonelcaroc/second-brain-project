@@ -2,8 +2,6 @@
 
 A powerful AI-powered knowledge base that lets you search through transcripts and conversations using semantic search. Built with modern web technologies and vector database capabilities.
 
-![Second Brain Screenshot](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Second+Brain+Project) <!-- Add actual screenshot later -->
-
 ## ✨ Features
 
 - **🔍 Semantic Search**: Find relevant content using AI-powered embeddings
@@ -38,7 +36,19 @@ A powerful AI-powered knowledge base that lets you search through transcripts an
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
-   git clone https://github.com/your-username/second-brain-project.git
+   git clone https://github.com/leonelcaroc/second-brain-project.git
    cd second-brain-project
+   ```
+
+2. **Install packages**
+
+   ```bash
+   yarn install:all
+   ```
+
+3. **Start the Project**
+   ```bash
+   yarn dev
    ```
